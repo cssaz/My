@@ -1,3 +1,9 @@
 【截取】
-s aa="https://miyu.m.supfree.net/short.asp?id=1376"t(){hs(aa,null,"gb2312",null,true,bb)sj(bb,"display:none\">","</div>",jq)tw(jq)}
+s aa="https://miyu.m.supfree.net/short.asp?id=1376"
+t()
+{
+hs(aa,null,"gb2312",null,true,bb)
+sj(bb,"display:none\">","</div>",jq)
+tw(jq)
+}
 【截取】
