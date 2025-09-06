@@ -1,0 +1,12 @@
+//fn 加载动画.加载(false)
+t()
+{
+ call(sss.弹窗内容,"mjava","ip.get")
+ ufnsui()
+ {
+    gvs(15,v)
+call(null,"mjava","控件模糊.ksBlurV",v,"5","5")
+      fn kjgl.弹窗()
+  //endutw()
+}
+}
